@@ -1,0 +1,1 @@
+-- Display the department id, name, month in which more than 5 employees joined in any department located in Seattle.

@@ -1,0 +1,1 @@
+--Display job title and average salary for employees who did a job in the past.

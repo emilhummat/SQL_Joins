@@ -1,0 +1,2 @@
+--Write a query in SQL to display full name(first and last name), job title, starting and ending date of
+--last jobs for those employees who worked without a commission percentage.

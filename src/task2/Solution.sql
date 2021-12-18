@@ -1,0 +1,1 @@
+--Display the departments into which no employee joined in last two years.
